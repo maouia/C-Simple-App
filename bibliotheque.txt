@@ -1,0 +1,4 @@
+ddddddd fffffff 60 1
+test hhhhhhh 231 1
+maouia test1 200 1
+khawla test2 3 0
